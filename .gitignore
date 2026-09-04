@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+publish/
+
+# Local user settings (contains your hotkey/target info)
+bosskey.settings.json
+
+# IDE / OS
+.vs/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
